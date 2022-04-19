@@ -1,0 +1,126 @@
+body > hgroup {
+    background-color: rgb(53, 53, 53);
+    text-align: center;
+    margin-top: 100px;
+    font-size: 300%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: white;
+}
+
+body {
+    background-color: rgb(53, 53, 53);
+}
+
+footer {
+    background-color: rgb(53, 53, 53);
+    margin-top: 8%;
+    margin-left: 1%;
+    color: white;
+
+}
+
+.container {
+    position: relative;
+    text-align: center;
+}
+
+.container img {
+    width: 100%;
+    height: auto;
+}
+
+.btn {
+    background-color: #ffee36;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.btn:hover {
+    opacity: 1;
+    text-decoration: none;
+    background-color: #9b911f;
+}
+
+.btn2 {
+    background-color: #ffee36;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.btn2:hover {
+    opacity: 1;
+    text-decoration: none;
+    background-color: #9b911f;
+}
+
+.btn3 {
+    background-color: #ffee36;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.btn3:hover {
+    opacity: 1;
+    text-decoration: none;
+    background-color: #9b911f;
+}
+
+.btn4 {
+    background-color: #ffee36;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.btn4:hover {
+    opacity: 1;
+    text-decoration: none;
+    background-color: #9b911f;
+}
+
+.btn5 {
+    background-color: #ffee36;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.btn5:hover {
+    opacity: 1;
+    text-decoration: none;
+    background-color: #9b911f;
+}
